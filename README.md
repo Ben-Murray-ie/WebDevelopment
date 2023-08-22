@@ -1,7 +1,16 @@
 # WebDevelopment
- Web Development Project - A mock storefront using HTML/CSS/Javascript
+ Web Development Project - A mock storefront using HTML, CSS, Javascript, PHP and SQL. We created a mock storefront for selling products, I chose electric guitars. We used Bootstrap for styling and dynamic resizing of the page, and for elements such as carousels and modals. The site allows the user to sign in using pre-defined credentials and has verification for name, email address and password. 
 
-Below are some images showing the hosted webpage:
+Users can browse products and add them to their basket. The total cost increases dynamically as more items are added. Users must be signed in to checkout and will be prompted to sign in if a checkout attempt is made without verification.
+
+---
+
+**Instructions:**
+
+* 
+---
+
+**Demonstration:**
 
 Storefront/layout:
 
