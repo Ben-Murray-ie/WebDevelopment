@@ -7,7 +7,15 @@ Users can browse products and add them to their basket. The total cost increases
 
 **Instructions:**
 
-* 
+* To view this page locally, install XAMPP.
+* Create a folder in the htdocs directory to house the project files.
+* Activate the XAMPP server.
+* In your browser, go to the PHPMyAdmin page associated with your XAMPP installation.
+* Import the included "g00275740.sql".
+* Navigate to the index.php file in the project folder created in your htdocs directory.
+* The page should now be available to view in your browser.
+
+
 ---
 
 **Demonstration:**
